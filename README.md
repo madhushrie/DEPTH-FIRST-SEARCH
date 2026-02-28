@@ -150,7 +150,7 @@ G F <BR>
 3 4 <BR>
 <hr>
 <h3>Sample Output</h3>
-<hr>
+<hr> 
 <img width="1078" height="558" alt="image" src="https://github.com/user-attachments/assets/2598eb47-a7a9-455f-9aaa-979fb9a9da25" />
 
 ['0', '1', '2', '3', '4']
